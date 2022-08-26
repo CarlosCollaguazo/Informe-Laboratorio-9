@@ -26,10 +26,53 @@ NRC: 7310
 
 # Resolución del Problema
 
+9.5.1. Sin emplear calculadora. Transforme a su forma polar:
+
+a) 2 + 3 j =
+
+![image](https://user-images.githubusercontent.com/105715717/186952196-6133d210-720e-48b1-be3c-67a8f9119af7.png)
+
+b) -8 + 6.2 j =
+
+![image](https://user-images.githubusercontent.com/105715717/186952257-f654b965-71ba-467e-ac6f-8a17526cb8a8.png)
+
+c) 4.3 – 2.8 j =
+
+![image](https://user-images.githubusercontent.com/105715717/186952299-334eb541-48d0-4d72-9805-131da4843d1e.png)
+
+d) -6 – 3.2 j =
+
+![image](https://user-images.githubusercontent.com/105715717/186952355-5369fb5c-f926-410e-b291-a7ab7e8ff303.png)
+
+9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:
+
+a) 36 | -10° =
+
+b) 28.7 | 135° =
+
+c) 11.2 | 28° =
+
+d) 45 | -117.9° =
 
 
-# Respuesta a Interrogantes
+9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
+represente el resultado tanto en su forma rectangular como en su forma polar.
 
+a) 10 + 3 j - ( 7 + 2 j )( 3 |-115°)
+2 j
+
+b) 6.8 |125.3° + 4.5 |-11.5°
+7.6 – 1.2 j
+
+c) 34 + 28.5 j –51.2 |-215°
+4 |-20.8°
+
+9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
+
+NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No
+debe emplear aplicaciones web y las operaciones deben realizarse en una sola
+operación.
 
 
 # Video
