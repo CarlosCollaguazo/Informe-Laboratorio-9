@@ -22,6 +22,9 @@ NRC: 7310
 # Marco Teórico
 
 
+![image](https://user-images.githubusercontent.com/105691698/186955377-2fea616f-68bb-4a44-99b6-4b001feb757e.png)
+
+
 
 
 # Resolución del Problema
