@@ -46,13 +46,14 @@ d) -6 – 3.2 j =
 
 9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:
 
-a) 36 | -10° =
+![image](https://user-images.githubusercontent.com/105715717/186952512-b3ac65a2-8e5f-4d6e-a994-34a1969638a9.png)
 
-b) 28.7 | 135° =
+![image](https://user-images.githubusercontent.com/105715717/186952582-864e7f8b-4b87-4278-9ca9-65c8f45948da.png)
 
-c) 11.2 | 28° =
+![image](https://user-images.githubusercontent.com/105715717/186952626-631163fa-9226-49c2-8942-6578844cde5b.png)
 
-d) 45 | -117.9° =
+![image](https://user-images.githubusercontent.com/105715717/186952670-0e235b0f-dad1-4e81-8baf-5bc0bfcb8d4f.png)
+
 
 
 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
