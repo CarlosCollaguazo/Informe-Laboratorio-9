@@ -88,17 +88,27 @@ a)	2 + 3 j =
 
 ![image](https://user-images.githubusercontent.com/105691698/186954337-99e97e6a-bac9-4190-8ea5-432e3a263b7e.png)
 
+![image](https://user-images.githubusercontent.com/105715717/186956098-7623820f-753d-4877-bb4e-1b82b3a06a6f.png)
+
+
 b) -8 + 6.2 j =
 
 ![image](https://user-images.githubusercontent.com/105691698/186954529-1ceac906-5c15-49a9-9e44-376aa375e15f.png)
+
+![image](https://user-images.githubusercontent.com/105715717/186956147-d4c1979a-1031-40e6-b030-8bd9c1ebf2b3.png)
+
 
 c) 4.3 – 2.8 j =
 
 ![image](https://user-images.githubusercontent.com/105691698/186954624-0d5e4773-ecf8-4e42-bf27-9ae0797b6cda.png)
 
+![image](https://user-images.githubusercontent.com/105715717/186956159-a9fef396-5ba5-4420-9709-81bf4b5d4391.png)
+
 d) -6 – 3.2 j =
 
 ![image](https://user-images.githubusercontent.com/105691698/186954700-c5395563-a17d-4a15-a5c1-bd849f1adad5.png)
+
+![image](https://user-images.githubusercontent.com/105715717/186956185-6efd080a-55c7-4714-98ad-ac2dd3164eba.png)
 
 # Transforme a su forma rectangular:
 
@@ -106,20 +116,28 @@ a) 36 ∠ -10° =
 
 ![image](https://user-images.githubusercontent.com/105691698/186955008-20fbb613-59d8-4de8-8175-0acdae718c7a.png)
 
+![image](https://user-images.githubusercontent.com/105715717/186956212-d536df29-8538-4d62-b167-9700365f0783.png)
+
+
 b) 28.7 ∠ 135° =
 
 ![image](https://user-images.githubusercontent.com/105691698/186955038-1e78dd3a-d720-4557-9f0c-9d261cefd341.png)
+
+![image](https://user-images.githubusercontent.com/105715717/186956226-1d64bf88-e104-4190-8746-447ec3dea15c.png)
 
 
 c) 11.2 ∠ 28° =
 
 ![image](https://user-images.githubusercontent.com/105691698/186955104-080168ac-4594-47a0-b943-2092017489f8.png)
 
+![image](https://user-images.githubusercontent.com/105715717/186956240-bba57c3c-5050-4a3c-8d34-0c6d760558f8.png)
+
 
 d) 45 ∠ -117.9° =
 
 ![image](https://user-images.githubusercontent.com/105691698/186955182-d208e977-9453-4303-86c5-1f16670acc2e.png)
 
+![image](https://user-images.githubusercontent.com/105715717/186956258-03d34791-c954-4724-aa1b-5e40ed269991.png)
 
 
 
