@@ -164,3 +164,4 @@ Lifeder. (19 de Agosto de 2022). Lifeder. Obtenido de Lifeder: https://www.lifed
 Gutiérrez, O. H. (26 de Agosto de 2022). Análisis de Circuitos Eléctricos. Obtenido de blogspot:
 
 http://circuitoselectricosac.blogspot.com/p/12-fasores.html
+
