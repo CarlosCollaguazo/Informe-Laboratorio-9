@@ -79,6 +79,48 @@ c) 34 + 28.5 j –51.2 |-215°
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
 
+# Transforme a su forma polar:
+
+a)	2 + 3 j = 
+
+![image](https://user-images.githubusercontent.com/105691698/186954337-99e97e6a-bac9-4190-8ea5-432e3a263b7e.png)
+
+b) -8 + 6.2 j =
+
+![image](https://user-images.githubusercontent.com/105691698/186954529-1ceac906-5c15-49a9-9e44-376aa375e15f.png)
+
+c) 4.3 – 2.8 j =
+
+![image](https://user-images.githubusercontent.com/105691698/186954624-0d5e4773-ecf8-4e42-bf27-9ae0797b6cda.png)
+
+d) -6 – 3.2 j =
+
+![image](https://user-images.githubusercontent.com/105691698/186954700-c5395563-a17d-4a15-a5c1-bd849f1adad5.png)
+
+# Transforme a su forma rectangular:
+
+a) 36 ∠ -10° =
+
+![image](https://user-images.githubusercontent.com/105691698/186955008-20fbb613-59d8-4de8-8175-0acdae718c7a.png)
+
+b) 28.7 ∠ 135° =
+
+![image](https://user-images.githubusercontent.com/105691698/186955038-1e78dd3a-d720-4557-9f0c-9d261cefd341.png)
+
+
+c) 11.2 ∠ 28° =
+
+![image](https://user-images.githubusercontent.com/105691698/186955104-080168ac-4594-47a0-b943-2092017489f8.png)
+
+
+d) 45 ∠ -117.9° =
+
+![image](https://user-images.githubusercontent.com/105691698/186955182-d208e977-9453-4303-86c5-1f16670acc2e.png)
+
+
+
+
+
 NOTA: Emplee solo una calculadora física o virtual para resolver las operaciones. No
 debe emplear aplicaciones web y las operaciones deben realizarse en una sola
 operación.
