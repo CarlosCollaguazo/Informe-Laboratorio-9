@@ -160,3 +160,7 @@ https://www.youtube.com/watch?v=T1oCyw9UJ6g
 # Bibliografía
 
 Lifeder. (19 de Agosto de 2022). Lifeder. Obtenido de Lifeder: https://www.lifeder.com/onda-senoidal/
+
+Gutiérrez, O. H. (26 de Agosto de 2022). Análisis de Circuitos Eléctricos. Obtenido de blogspot:
+
+http://circuitoselectricosac.blogspot.com/p/12-fasores.html
