@@ -46,14 +46,13 @@ d) -6 – 3.2 j =
 
 9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:
 
-![image](https://user-images.githubusercontent.com/105715717/186952512-b3ac65a2-8e5f-4d6e-a994-34a1969638a9.png)
+a) 36 | -10° =
 
-![image](https://user-images.githubusercontent.com/105715717/186952582-864e7f8b-4b87-4278-9ca9-65c8f45948da.png)
+b) 28.7 | 135° =
 
-![image](https://user-images.githubusercontent.com/105715717/186952626-631163fa-9226-49c2-8942-6578844cde5b.png)
+c) 11.2 | 28° =
 
-![image](https://user-images.githubusercontent.com/105715717/186952670-0e235b0f-dad1-4e81-8baf-5bc0bfcb8d4f.png)
-
+d) 45 | -117.9° =
 
 
 9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y
@@ -62,11 +61,20 @@ represente el resultado tanto en su forma rectangular como en su forma polar.
 a) 10 + 3 j - ( 7 + 2 j )( 3 |-115°)
 2 j
 
+![image](https://user-images.githubusercontent.com/105675868/186952700-abeba7d6-a7a5-4950-b043-a74e02a9acb3.png)
+
+![image](https://user-images.githubusercontent.com/105675868/186952767-807b3735-dc3c-4a96-91ca-f8ef30c9a4ec.png)
+
 b) 6.8 |125.3° + 4.5 |-11.5°
 7.6 – 1.2 j
 
+![image](https://user-images.githubusercontent.com/105675868/186952815-c5a1dd6d-e950-4fa2-a213-ab14baa08f1d.png)
+
 c) 34 + 28.5 j –51.2 |-215°
 4 |-20.8°
+
+![image](https://user-images.githubusercontent.com/105675868/186952859-02a38023-8547-4a33-8252-38a526aba813.png)
+
 
 9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
 resultados.
